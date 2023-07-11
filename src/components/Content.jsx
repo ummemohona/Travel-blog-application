@@ -17,6 +17,7 @@ const Content = () => {
       const buttonStyle = {
         margin: '10px',
         backgroundColor: '#f3d8a0',
+        color: '#fff',
         border: '1px solid #f3d8a0',
         borderRadius: '8px',
         padding: '3px',
