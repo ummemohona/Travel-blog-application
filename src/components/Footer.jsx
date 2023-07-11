@@ -18,7 +18,7 @@ const Footer = () => {
   };
 
   return (
-    <div style={footerStyle}>
+    <footer style={footerStyle}>
       <div style={infoStyle}>
         <p>Name: Umme Mohona</p>
         <p>Address: Nikunja - 02, Dhaka.</p>
@@ -28,7 +28,7 @@ const Footer = () => {
         <p><q> Traveling – it leaves you speechless, then turns you into a storyteller.</q></p>
         <p style={{ fontStyle: 'normal' }}>- Ibn Battuta</p>
       </div>
-    </div>
+    </footer>
   );
 };
 
